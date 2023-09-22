@@ -16,6 +16,8 @@ There's a few things that complicate this,
    Old just gave mages the ultimate ability that effectively makes the map tiny, and gave them laughable boss damage in return.
    Modern maplestory gives everyone a super jump.
 
+3. 3D maps are going to be much more complex, particularly with terrain that affects player movement, like swimming. Ladders in 2d maps will also make this a little more complex, and give the player a little more opportunity to express some skill in the most mundane ways.
+
 Why would this even matter?
 Well, your average MMO gamer is always looking for the best spot to grind at. If spot A is 1% better than spot B, 90% of your player base will spend their time at spot B.
 However, if half your character classes are better at spot B, and the other half are better at spot A, you now have a 50/50 split.
