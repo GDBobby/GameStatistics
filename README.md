@@ -32,5 +32,5 @@ Sure. I would personally make a headless client and let some bots run at it for 
 With that aside, I think a developer would spend five minute per map collecting average data, more time to be more accurate of course. Then they have real data they can act on, rather than waiting weeks or months to see heatmaps that merely portray player preferences. Combining this data with a heatmap may provide more valuable insight, i.e. why would players prefer a map that is not the most optimal.
 
 
-###Out
+### Out
 I collected all data on old school maplestory. All formulas are from there, and any rounding errors in those formulas are intentional to accurately reflect old school maplestory.
